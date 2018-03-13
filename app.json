@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "plain-rn-expo-app",
+    "description": "This is a plain React Native project using Expo.",
+    "slug": "plain-rn-expo-app",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
